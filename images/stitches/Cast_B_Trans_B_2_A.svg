@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="47px" viewBox="0 0 47 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 18</title>
+    <g id="Artboard-Copy-18" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-572" fill="#B4B4B4" transform="translate(23.500000, 35.000000) scale(-1, 1) translate(-23.500000, -35.000000) " x="0" y="23" width="47" height="24"></rect>
+        <rect id="Rectangle-Copy-574" fill="#FEC78E" transform="translate(23.500000, 11.500000) scale(-1, 1) translate(-23.500000, -11.500000) " x="0" y="0" width="47" height="23"></rect>
+        <line x1="-0.5" y1="23.5" x2="47.52" y2="23.5" id="Line-8-Copy" stroke="#979797"></line>
+        <g id="Group-2" transform="translate(24.000000, 30.500000) scale(1, -1) translate(-24.000000, -30.500000) translate(15.000000, 14.000000)" stroke="#000000">
+            <line x1="3" y1="6.5" x2="15" y2="6.5" id="Line-9-Copy-3" stroke-width="2.1" stroke-linecap="square" transform="translate(9.000000, 6.500000) rotate(90.000000) translate(-9.000000, -6.500000) "></line>
+            <circle id="Oval" stroke-width="2" cx="9" cy="23.5" r="9"></circle>
+        </g>
+    </g>
+</svg>

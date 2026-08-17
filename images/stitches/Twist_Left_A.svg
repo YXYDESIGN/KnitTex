@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="47px" viewBox="0 0 94 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Artboard Copy 14</title>
+    <g id="Artboard-Copy-14" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-Copy-572" fill="#79D894" transform="translate(70.500000, 35.000000) scale(-1, 1) translate(-70.500000, -35.000000) " x="47" y="23" width="47" height="24"></rect>
+        <rect id="Rectangle-Copy-573" fill="#79D894" transform="translate(23.500000, 35.000000) scale(-1, 1) translate(-23.500000, -35.000000) " x="0" y="23" width="47" height="24"></rect>
+        <rect id="Rectangle-Copy-574" fill="#FFFFFF" transform="translate(23.500000, 11.500000) scale(-1, 1) translate(-23.500000, -11.500000) " x="0" y="0" width="47" height="23"></rect>
+        <rect id="Rectangle-Copy-575" fill="#FEC78E" transform="translate(70.500000, 11.500000) scale(-1, 1) translate(-70.500000, -11.500000) " x="47" y="0" width="47" height="23"></rect>
+        <line x1="-0.5" y1="23.5" x2="94.5" y2="23.5" id="Line-8-Copy" stroke="#979797"></line>
+        <line x1="47" y1="47.5" x2="47" y2="-1.5" id="Line-8-Copy" stroke="#D1D5DB" stroke-width="1.5"></line>
+        <g id="Group" transform="translate(47.500000, 35.000000) scale(-1, 1) translate(-47.500000, -35.000000) translate(7.500000, 28.000000)" stroke="#000000" stroke-linecap="square" stroke-width="1.8">
+            <line x1="7.00068682e-15" y1="4.47799713e-15" x2="29.5256452" y2="4.83295906" id="Line-9-Copy-2"></line>
+            <line x1="4.4408921e-15" y1="0" x2="80" y2="14" id="Line-9-Copy-2" transform="translate(40.000000, 7.000000) scale(-1, 1) translate(-40.000000, -7.000000) "></line>
+            <line x1="49.5910331" y1="9.02021262" x2="80" y2="14" id="Line-9-Copy-2"></line>
+        </g>
+        <line x1="56" y1="11.5" x2="85.0322581" y2="11.5" id="Line-9-Copy-2" stroke="#000000" stroke-width="1.8" stroke-linecap="square"></line>
+    </g>
+</svg>
